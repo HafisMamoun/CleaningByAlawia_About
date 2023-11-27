@@ -7,7 +7,7 @@ body {
 } 
 
 h1 {
-  font-family: Arial, helvetica,  sans serif;
+  font-family: Arial, Helvetica,  Sans Serif;
   font-size: 2.4em;
 }
 
@@ -16,10 +16,10 @@ h2 {
 }
 
 p {
-  font-family: serif, hevetica, arial;
+  font-family: Serif, Hevetica, Arial;
 } 
 ul {
-  font-family:  serif, heveetica, arial;
+  font-family:  Serif, Heveetica, Arial;
   font-size: 1.2em;
   text-align: center;
   padding: 0px; 
@@ -28,5 +28,5 @@ ul {
 li {
   list-style: none;
   display: inline-block;
-  margin: 0px 20px;
+  margin: 20px;
 } 
