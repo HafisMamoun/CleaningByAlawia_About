@@ -3,30 +3,13 @@ body {
   color: white;
   font-family: serif; 
   letter-space: 08em; 
+  font-size: 1.4em; 
   padding: 0px; 
 } 
-
-ul {
-  font-family:  serif, heveetica, arial;
-  font-size: 1.2em;
-  text-align: center;
-  padding: 0px; 
-} 
-
-li {
-  list-style: none;
-  display: inline-block;
-  margin: 0px 20px;
-  font-size: 1.4em;
-}
 
 h1 { 
-  font-family: sans serif, helvetica, arial;
-  font-size: 2.4em;
-  font-weight: 1.2em; 
-  text-align: centre; 
-
- } 
+  font-family: ,  arial, helvetica, sans serif; 
+}
 
 h2 {
   font-family: serif, hevetica, arial;
@@ -39,8 +22,19 @@ h3 {
   font-size: 1.2em;
 }
 
- p { 
+p { 
    font-family: serif, hevetica, arial;
-   word-spacing: nomral; 
-   font-size: 1.2em;
- }
+}
+
+ul {
+  font-family:  serf, heveetica, arial;
+  font-size: 1.2em;
+  text-align: center;
+  padding: 0px; 
+} 
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 20px;
+} 
