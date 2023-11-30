@@ -7,7 +7,7 @@ body {
 } 
 
 h1 { 
-  font-family: ,  sans serif, helvetica, arial;
+  font-family: sans serif, helvetica, arial;
   font-weight: 1.4em; 
   text-align: centre;  
 }
@@ -15,23 +15,23 @@ h1 {
 h2 {
   font-family: serif, helvetica, arial;
   text-align: centre;
-  font-size: 1.6em;
 }
 
 h3 {
-  font-family: serif,
+  font-family: serif;
 }
 
 p { 
-   font-family: serif, helvetica, arial;
+  font-family: serif, helvetica, arial; 
+  word-spacing: normal; 
+  font-size: 1.2em; 
 }
 
 ul {
-  font-family: serf, helvetica, arial;
-  font-size: 1.1em;
+  font-family: serif, helvetica, arial;
+  font-size: 1.2em;
   text-align: center;
   padding: 0px 20px;
-   
 } 
 
 li {
